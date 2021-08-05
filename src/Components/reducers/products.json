@@ -1,0 +1,210 @@
+[
+    {
+      "id": 0,
+      "title": "Winter body",
+      "name": "shirt",
+      "price": 110,
+      "img": "shirt1.jpg",
+      "inCart": false
+    },
+    {
+      "id": 1,
+      "title": "Adidas",
+      "name": "shirt",
+      "price": 210,
+      "img": "shirt2.jpg",
+      "inCart": false
+    },
+    {
+      "id": 2,
+      "title": "Vans",
+      "name": "shirt",
+      "price": 310,
+      "img": "shirt3.jpg",
+      "inCart": false
+    },
+    {
+      "id": 3,
+      "title": "Winter",
+      "name": "pant",
+      "price": 200,
+      "img": "pant1.jpg",
+      "inCart": false
+    },
+    {
+      "id": 4,
+      "title": "Adidas01",
+      "name": "pant",
+      "price": 320,
+      "img": "pant2.jpg",
+      "inCart": false
+    },
+    {
+      "id": 5,
+      "title": "Vans-1",
+      "name": "pant",
+      "price": 540,
+      "img": "pant3.jpg",
+      "inCart": false
+    },
+    {
+      "id": 6,
+      "title": "Winter-1",
+      "name": "shorts",
+      "price": 330,
+      "img": "shorts1.jpg",
+      "inCart": false
+    },
+    {
+      "id": 7,
+      "title": "Adidas-2",
+      "name": "shorts",
+      "price": 150,
+      "img": "shorts2.jpg",
+      "inCart": false
+    },
+    {
+      "id": 8,
+      "title": "Vans-2",
+      "name": "shorts",
+      "price": 250,
+      "img": "shorts3.jpg",
+      "inCart": false
+    },
+    {
+      "id": 9,
+      "title": "White",
+      "name": "shorts",
+      "price": 370,
+      "img": "shorts4.jpg",
+      "inCart": false
+    },
+    {
+      "id": 10,
+      "title": "Winter-2",
+      "name": "tshirt",
+      "price": 820,
+      "img": "t_shirt1.jpg",
+      "inCart": false
+    },
+    {
+      "id": 11,
+      "title": "Adidas-3",
+      "name": "tshirt",
+      "price": 130,
+      "img": "t_shirt2.jpg",
+      "inCart": false
+    },
+    {
+      "id": 12,
+      "title": "Vans-3",
+      "name": "tshirt",
+      "price": 640,
+      "img": "t_shirt3.jpg",
+      "inCart": false
+    },
+    {
+      "id": 13,
+      "title": "White-1",
+      "name": "shirt",
+      "price": 410,
+      "img": "shirt4.jpg",
+      "inCart": false
+    },
+    {
+      "id": 14,
+      "title": "Cropped-sho",
+      "name": "shirt",
+      "price": 510,
+      "img": "shirt5.jpg",
+      "inCart": false
+    },
+    {
+      "id": 15,
+      "title": "Blues",
+      "name": "shirt",
+      "price": 610,
+      "img": "shirt6.jpg",
+      "inCart": false
+    },
+    {
+      "id": 16,
+      "title": "White-2",
+      "name": "pant",
+      "price": 650,
+      "img": "pant4.jpg",
+      "inCart": false
+    },
+    {
+      "id": 17,
+      "title": "Cropped-sho-1",
+      "name": "pant",
+      "price": 420,
+      "img": "pant5.jpg",
+      "inCart": false
+    },
+    {
+      "id": 18,
+      "title": "Blues-1",
+      "name": "pant",
+      "price": 550,
+      "img": "pant6.jpg",
+      "inCart": false
+    },
+    {
+      "id": 19,
+      "title": "Cropped-sho-2",
+      "name": "shorts",
+      "price": 175,
+      "img": "shorts5.jpg",
+      "inCart": false
+    },
+    {
+      "id": 20,
+      "title": "Blues-2",
+      "name": "shorts",
+      "price": 360,
+      "img": "shorts6.jpg",
+      "inCart": false
+    },
+    {
+      "id": 21,
+      "title": "White-3",
+      "name": "tshirt",
+      "price": 230,
+      "img": "t_shirt4.jpg",
+      "inCart": false
+    },
+    {
+      "id": 22,
+      "title": "Cropped-sho-3",
+      "name": "tshirt",
+      "price": 570,
+      "img": "t_shirt5.jpg",
+      "inCart": false
+    },
+    {
+      "id": 23,
+      "title": "Blues-3",
+      "name": "tshirt",
+      "price": 215,
+      "img": "t_shirt6.jpg",
+      "inCart": false
+    },
+    {
+      "id": 24,
+      "title": "Puma",
+      "name": "shirt",
+      "price": 710,
+      "img": "shirt7.jpg",
+      "inCart": false
+    },
+    {
+      "id": 25,
+      "title": "Allen",
+      "name": "shirt",
+      "price": 810,
+      "img": "shirt8.jpg",
+      "inCart": false
+    }
+  ]
